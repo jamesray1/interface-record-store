@@ -11,7 +11,7 @@ Publishing a test suite as a module lets multiple modules all ensure compatibili
 
 The API is presented with both Node.js and Go primitives, however, there is not actual limitations for it to be extended for any other language, pushing forward the cross compatibility and interop through diferent stacks.
 
-# Modules that implement the interface
+# Modules that implement the interface (both are deprecated) <!--TODO: explain why here and/or in the repos; what have they been replaced by?-->
 
 - [ipfs-distributed-record-store](https://github.com/libp2p/js-libp2p-distributed-record-store)
 - [ipfs-kad-record-store](https://github.com/libp2p/js-libp2p-kad-record-store)
